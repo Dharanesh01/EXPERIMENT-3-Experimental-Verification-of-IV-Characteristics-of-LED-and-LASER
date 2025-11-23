@@ -41,6 +41,8 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ## 🔌 CONNECTION DIAGRAM
 
+<img width="1088" height="690" alt="image" src="https://github.com/user-attachments/assets/765f9018-f4e4-4ac7-9306-081066e8a1c8" />
+
 
 ---
 
@@ -48,16 +50,12 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ### LED Forward Characteristics
 
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
+<img width="412" height="462" alt="image" src="https://github.com/user-attachments/assets/8322bfed-ed1d-494e-b4ee-dda628e44b27" />
 
 ---
 
 ## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
+<img width="657" height="552" alt="image" src="https://github.com/user-attachments/assets/2b86b7f3-81c7-4d2b-b620-0dfb3625cbc5" />
 
 ---
 
